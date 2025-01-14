@@ -30,13 +30,14 @@
     "start": "gatsby develop",
     "serve": "gatsby serve",
     "clean": "gatsby clean",
-    "deploy": "gatsby build && gh-pages -d public -b main" 
+    "deploy": "gatsby build && gh-pages -d public -b main"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Natatsy/my-static-site.git" 
+    "url": "https://github.com/Natatsy/my-static-site.git"
   },
   "bugs": {
-    "url": "https://github.com/Natatsy/my-static-site.git/issues" ,
+    "url": "https://github.com/Natatsy/my-static-site.git/issues"
+  },
   "homepage": "https://natatsy.github.io/my-static-site"
 }
